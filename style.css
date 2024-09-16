@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+}
+/* simple css */
+.nav{
+    height: 100px;
+
+}
+
+
+/* simple css */
+/* sm */
+@media (min-width:576px) and (max-width:768px) {
+    
+}
+/* sm */
+/* md */
+@media (min-width:769px) and (max-width:992px) {
+    
+}
+/* md */
+/* lg */
+@media (min-width:993px) and (max-width:1200px) {
+    
+}
+/* lg */
